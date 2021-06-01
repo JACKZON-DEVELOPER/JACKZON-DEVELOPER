@@ -41,8 +41,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 ### Movil
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle%20%22Android%20Studio%22
-"> 
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle%20%22Android%20Studio%22"> 
 ### Software
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
