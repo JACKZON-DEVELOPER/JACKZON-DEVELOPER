@@ -52,6 +52,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/twitter-anandmainali5@gmail.com-blue?style=flat&logo=twitter"></a>
+</p>
+
 
 
 ⭐️ From [@JACKZON10](https://github.com/JACKZON10)
