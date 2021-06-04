@@ -37,13 +37,13 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white">
 </div>
 
- ### Software :tangerine:
+ ### Software :computer:
  <div aling="center">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white"> 
 
 
-### Data Base
+### Data Base  :cloud:
   <div aling="center">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">
