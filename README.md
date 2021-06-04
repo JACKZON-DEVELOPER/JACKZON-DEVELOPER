@@ -1,62 +1,54 @@
-### Hi there 👋
-
-
-**JACKZON10/JACKZON10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hola 👋 soy [Jasson Caamal Medina](https://)
+> Software Engineer/ developer web / developer movil 
 
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+Soy un desarrollador de aplicaciones moviles, apliacaiones web y aplicaciones de escritorio. e realizado desarrollo de aplicaciones moviles en los lenguajes java y kotkin en android estudio. tengo experiencia en desarrollo web tanto fronwnd como bacckend utlizando html, csss, javascript, PHP, asp.net, entre otros framework para el desarrollo web. e creado bases de datos en MySQL, SQL y firebase y e creado aplicaciones de escritorio en java y C#.
 
-I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+Me encanta el desarrollo y constantemente e mojorado mis abilidades de programacion ya que soy alguien que le gusta aprender constantemente 
 </p>
 </div>
 
 ### Programming Languages 🌐
 ### Web
+
+<div aling="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+</div>
 
 ### Movil
+<div aling="center">
 <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle%20%22Android%20Studio%22"> 
-### Software
+</div>
+
+ ### Software
+ <div aling="center">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
 
 
 ### Data Base
+  <div aling="center">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-SQL-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-
+</div>
+ 
 ### Tools 🛠️
+   <div aling="center">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
+</div>
 
 ### Other Languages I know
 
