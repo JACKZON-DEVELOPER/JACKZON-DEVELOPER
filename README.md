@@ -23,11 +23,16 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white">
 </div>
 
 ### Movil
 <div aling="center">
-<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android-Studio&logoColor=white&link=https://github.com/Quananhle%20%22Android%20Studio%22"> 
+
+ 
+ <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white">
+
+ <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white">
 </div>
 
  ### Software
@@ -48,6 +53,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+     <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white">
 </div>
 
 ### Other Languages I know
