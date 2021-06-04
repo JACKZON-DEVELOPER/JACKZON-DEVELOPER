@@ -16,7 +16,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 </div>
 
 ### Programming Languages 🌐
-### Web
+### Web 🌐
 
 <div aling="center">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
@@ -28,7 +28,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white">
 </div>
 
-### Movil
+### Movil :iphone:
 <div aling="center">
 
  
@@ -37,7 +37,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white">
 </div>
 
- ### Software
+ ### Software :tangerine:
  <div aling="center">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white"> 
@@ -71,6 +71,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+ 
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 
