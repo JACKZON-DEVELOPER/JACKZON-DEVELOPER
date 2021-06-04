@@ -38,13 +38,13 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
  ### Software
  <div aling="center">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=C%20Sharp&logoColor=white"> 
 
 
 ### Data Base
   <div aling="center">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-SQL-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 </div>
  
