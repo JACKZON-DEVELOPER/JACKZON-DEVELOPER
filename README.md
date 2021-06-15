@@ -63,7 +63,7 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 <p align="center">
  
 <a href="http://jassondeveloper.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portafolio-www.jassondeveloper.com-blue?style=flat&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/jasson-caamal-medina" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-jasson%20caamal%20medina-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/jasson-caamal-medina" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-jasson%20caamal%20medina-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:jasson.adrian.caamal.medina@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jasson.adrian.caamal.medina@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
@@ -71,4 +71,4 @@ Me encanta el desarrollo y constantemente e mojorado mis abilidades de programac
 
 
 
-⭐️ From [@JACKZON10](https://github.com/JACKZON10)
+⭐️ From [@JACKZON-DEVELOPER](https://github.com/JACKZON-DEVELOPER)
