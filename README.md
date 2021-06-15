@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <img width="100px" src="https://avatars.githubusercontent.com/u/37605522?s=400&u=ca99c2129d76b755755bfe4951dc762a59459606&v=4" align="center"  />
 </p>
 
 ### Hola 👋 soy [Jasson Caamal Medina](https://)
