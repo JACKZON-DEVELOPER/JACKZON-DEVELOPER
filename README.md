@@ -8,9 +8,11 @@
 
 <div>
  <p>
-Soy un desarrollador de aplicaciones moviles, apliacaiones web y aplicaciones de escritorio. e realizado desarrollo de aplicaciones moviles en los lenguajes java y kotkin en android estudio. tengo experiencia en desarrollo web tanto fronwnd como bacckend utlizando html, csss, javascript, PHP, asp.net, entre otros framework para el desarrollo web. e creado bases de datos en MySQL, SQL y firebase y e creado aplicaciones de escritorio en java y C#.
+  Soy un desarrollador de aplicaciones móviles, aplicaciones web y aplicaciones de escritorio. E realizado desarrollo de aplicaciones móviles en los lenguajes java y Kotlin en Android estudio. tengo experiencia en desarrollo web tanto Frontend como Backend utilizando html, css, JavaScript, PHP, asp.net, entre otros framework para el desarrollo web. También domino la creación bases de datos en MySQL, SQL y Firebase y la creación de aplicaciones de escritorio en Java y C#. 
+  
+  
+Me encanta el desarrollo y constantemente e mejorado mis habilidades de programación ya que soy alguien que le gusta aprender constantemente.
 
-Me encanta el desarrollo y constantemente e mojorado mis abilidades de programacion ya que soy alguien que le gusta aprender constantemente 
 </p>
 </div>
 
